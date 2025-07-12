@@ -1,0 +1,554 @@
+/* Total magarment  */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.content-X {
+  width: 1440px;
+  margin: 0 auto;
+}
+/*Font added*/
+
+/* font 1 Inter */
+.inter-normal {
+  font-family: "inter";
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* font 2 Raleway */
+
+.Raleway-regula {
+  font-family: "Raleway";
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* 🔴 All Buttons 🔴 */
+/*This button is responsible for nav bar*/
+.signup-bton {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  width: 132px;
+  height: 48px;
+
+  margin: 36px 12px;
+  border-radius: 10px;
+  background-color: #4e47ff;
+  gap: 16px;
+  border: none;
+  cursor: grab;
+}
+.signup-bton:hover {
+  font-size: 17.5;
+  font-weight: bolder;
+  font-style: italic;
+  border: navy solid 1px;
+  background-color: blueviolet;
+  cursor: grabbing;
+}
+/* ------------------------ */
+/* Focused button */
+.Focused-bton {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  width: 175px;
+  height: 48px;
+
+  margin: 36px 12px;
+  border-radius: 10px;
+  background-color: #4e47ff;
+  gap: 16px;
+  border: none;
+  cursor: grab;
+}
+.Focused-bton:hover {
+  font-size: 17.5;
+  font-weight: bolder;
+  font-style: italic;
+  border: navy solid 1px;
+  background-color: blueviolet;
+  cursor: grabbing;
+}
+/* ---------------------------- */
+/* Launch Live Button */
+.Launch-Live {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  width: 230px;
+  height: 48px;
+
+  margin: 36px 12px;
+  border-radius: 10px;
+  background-color: #4e47ff;
+  gap: 16px;
+  border: none;
+  cursor: grab;
+}
+.Launch-Live:hover {
+  font-size: 17.5;
+  font-weight: bolder;
+  font-style: italic;
+  border: navy solid 1px;
+  background-color: blueviolet;
+  cursor: grabbing;
+}
+
+/* STarted Free Button */
+.Started-Free {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  width: 200px;
+  height: 48px;
+
+  margin: 36px 12px;
+  border-radius: 10px;
+  background-color: #4e47ff;
+  gap: 16px;
+  border: none;
+  cursor: grab;
+}
+.Started-Free:hover {
+  font-size: 17.5;
+  font-weight: bolder;
+  font-style: italic;
+  border: navy solid 1px;
+  background-color: blueviolet;
+  cursor: grabbing;
+}
+
+/* Get Touch Botton */
+.Get-Touch {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  width: 497px;
+  height: 62px;
+
+  margin: 36px 12px;
+  border-radius: 10px;
+  background-color: #4e47ff;
+  gap: 16px;
+  border: none;
+  cursor: grab;
+}
+
+.Get-Touch:hover {
+  font-size: 17.5;
+  font-weight: bolder;
+  font-style: italic;
+  border: navy solid 1px;
+  background-color: blueviolet;
+  cursor: grabbing;
+}
+
+/* -------------------------- */
+
+/* Total magarment  */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.content-X {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #4e47ff10;
+}
+
+/* 🚩 nav-bar styles  🚩*/
+.my-head {
+  background-image: url(../../B12A01-landing-launchpad/Assets/Hero-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1440px;
+  height: 698px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding-top: 40px;
+}
+
+nav h3 {
+  color: #4e47ff;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+/* 🚩🟩 Banner Part  🟩🚩*/
+
+.banner-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 140px 633px 100px 633px;
+}
+
+.banner-titel h2 {
+  font-size: 65px;
+  font-weight: bold;
+  color: #252432;
+  text-align: center;
+  width: 905px;
+  height: 152px;
+}
+
+/* 🟩🔽 2nd part of coding Action Box start from here 🔽🟩 */
+
+.acction {
+  width: 1140px;
+  height: 328px;
+}
+.action-box {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  flex-direction: row;
+  gap: 20px;
+  margin-top: 117px;
+}
+.act-comment {
+  width: 520px;
+  height: 217px;
+
+  text-align: left;
+  align-items: start;
+
+  margin-top: 62px;
+  margin-bottom: 62px;
+}
+
+.act-comment h2 {
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  margin-bottom: 23px;
+}
+.act-comment p {
+  font-size: 24px;
+  font-weight: 400;
+  color: #25243250;
+  line-height: 30px;
+}
+
+.act-image img {
+  width: 403px;
+  height: 328px;
+  border-radius: 48px;
+}
+
+/* 🟩 Productive Section coding Start from here 🟩 */
+.Productive {
+  width: 1140px;
+  height: 306px;
+  background-color: #4e47ff10;
+  border-radius: 24px;
+  margin-left: 140px;
+  margin-top: 116px;
+}
+.Productive-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 125px;
+}
+
+.Productive-box h2 {
+  font-size: 38px;
+  font-weight: bold;
+  color: #252432;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.user-data {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 80px;
+}
+
+.data-info h1 {
+  font-size: 80px;
+  font-weight: bold;
+  color: #4e47ff;
+}
+.data-info h4 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #00000050;
+}
+
+.data-info {
+  text-align: center;
+}
+
+/* 🟩 Users’ Feedback Section coding start from here 🟩 */
+
+.User-Review {
+  width: 1140px;
+  height: 342px;
+  margin-top: 135px;
+  margin-left: 150px;
+}
+.user-headline h2 {
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.review-box {
+  display: flex;
+  gap: 20px;
+}
+
+.user-ratings {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 24px;
+}
+
+.users {
+  width: 367px;
+  height: 243px;
+  border-radius: 14px;
+  background-color: #ffffff50;
+  border: 2px solid #f2eded;
+  padding: 24px 24px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: start;
+}
+
+.user-titel h3 {
+  font-size: 25px;
+  font-weight: bold;
+  color: #1e1e1e;
+  margin-bottom: 8px;
+}
+.user-comment p {
+  font-size: 19px;
+  font-weight: 400;
+  color: #1e1e1e;
+  height: 318px;
+  height: 44px;
+  margin-bottom: 24px;
+}
+
+.user-id {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.id-img img {
+  border-radius: 50px;
+  width: 40px;
+  height: 40px;
+  margin-right: 12px;
+  margin-bottom: 6px;
+}
+
+.id-name h5 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #757575;
+  padding-top: 5px;
+}
+
+.id-name h6 {
+  font-weight: 25px;
+  font-weight: bold;
+  color: #b3b3b3;
+}
+
+.id-name {
+  width: 224px;
+  height: 46px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+/* 🟩 Foucs Better part coding start from here 🟩 */
+.focus-better {
+  width: 1140px;
+  height: 697px;
+  margin-left: 151px;
+  margin-right: 148px;
+  margin-top: 140px;
+
+  background-color: #ffffff;
+  border-radius: 14px;
+}
+
+.focus-container {
+  text-align: center;
+  padding: 71px 150px;
+}
+
+.focus-content h2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.focus-content h5 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #00000050;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.focus-content-ing img {
+  width: 840px;
+  height: 365px;
+  border-radius: 48px;
+}
+
+/* 🟩 Get In Touch Parts starts from here 🟩 */
+
+.Get-in-Touch {
+  width: 1140px;
+  height: 632px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 94px;
+}
+
+.Touch-Continar {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 115px;
+}
+
+.touch-titel h1 {
+  font-size: 97px;
+  font-weight: bold;
+  color: #000000;
+  width: 528px;
+  height: 232px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.input {
+  font-size: 18px;
+  font-weight: 500;
+  color: #000000;
+
+  width: 497px;
+  height: 490px;
+  text-align: left;
+}
+
+/* 🚩 this part give me pain */
+.touch-input {
+  width: 497px;
+  height: 490px;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 440px;
+  height: 5px;
+  padding: 32px 20px;
+  color: #ffffff;
+  border: 1px solid #d6dded;
+  border-radius: 10px;
+}
+
+input textarea {
+  width: 285px;
+  height: 8px;
+  padding: 32px 20px;
+  color: #ffffff;
+}
+
+textarea {
+  height: 120px;
+  resize: none;
+  border: 1px solid #d6dded;
+  border-radius: 10px;
+  padding: 20px 257px 50px 32px;
+}
+
+/* 🟩 Footer part start from here 🟩 */
+.tail {
+  width: 1440px;
+  height: 428px;
+  margin-top: 250px;
+  background-color: #ffffff;
+}
+.tail-tracking
+{
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+.tail-tracking h1
+{
+  font-size: 100px;
+  font-weight: bolder;
+  color: #4e47ff;
+  padding-top: 104px;
+  text-align: center;
+}
+.tail-tracking p
+{
+  font-size: 14px;
+  font-weight: 400;
+  color: #8987A1;
+  margin-top: 8px;
+  margin-bottom: 20px;
+  margin-left: 415px;
+  margin-right: 415px;
+  width: 504px;
+  height: 48px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.tail-link
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 48px;
+}
+
+.tail-link a
+{
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  color: #8987A1;
+}
